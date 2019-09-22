@@ -1,6 +1,6 @@
-token=
-owner=  
-prefix= 
-game= Type help
+token=NjI1MjUyNzQ1NTQwMDEwMDA1.XYc3Pw.stbnEGM0VZNb50ZbdwI6j_eCdSo
+owner=458146650758840320
+prefix=D
+game= Type Dhelp
 stayinchannel=true
-songinstatus=true
+songinstatus=false
